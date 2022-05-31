@@ -1,0 +1,7 @@
+import math
+ 
+print (math.isnan(math.pi))
+print (math.isnan(math.e))
+ 
+ 
+print (math.isnan(float('nan')))
